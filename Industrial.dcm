@@ -1,3 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FS-N40
+D Keyence - Fiber Optic Sensor
+K Digital Fiber Optic Sensor Keyence
+F https://www.keyence.com/mykeyence/?ptn=001
+$ENDCMP
+#
+$CMP Relay_SPDT
+D General SPDT Relay
+K Single Pole, Daul Throw Relay
+$ENDCMP
+#
 #End Doc Library
