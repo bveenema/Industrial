@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# MCCB-Breaker
+#
+DEF MCCB-Breaker U 0 40 Y Y 1 F N
+F0 "U" -50 -150 60 H V C CNN
+F1 "MCCB-Breaker" 0 300 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+A -50 -300 500 1269 531 0 1 20 N -350 100 250 100
+C -350 0 30 0 1 59 N
+C 250 0 32 0 1 59 N
+X ~ ~ -550 0 200 R 50 50 1 1 I
+X ~ ~ 450 0 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
